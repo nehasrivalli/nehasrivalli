@@ -3,9 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nehasrivalli&label=Profile%20views&color=0e75b6&style=flat" alt="nehasrivalli" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nehasrivalli" alt="nehasrivalli" /></a> </p>
 
 - 🔭 I’m currently working on [Web Development](https://github.com/TEAM-DIPNER/Radiant_website)
 
