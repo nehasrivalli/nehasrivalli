@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/nehasrivalli](https://github.com/nehasrivalli)
 
-- 📝 I regularly write articles on [https://instagram.com/_thug_life_echo_?igshid=MzNlNGNkZWQ4Mg==](https://instagram.com/_thug_life_echo_?igshid=MzNlNGNkZWQ4Mg==)
-
 - 📫 How to reach me **nehasrivalli@gmail.com**
 
 - ⚡ Fun fact **I think I'm hungry**
