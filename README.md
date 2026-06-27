@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neha Srivalli</h1>
-<h3 align="center">DevOps Engineer | AWS Certified Cloud Practitioner | Cloud & Automation Enthusiast</h3>
+<h3 align="center">Full Stack Developer | DevOps Engineer | AWS Certified Cloud Practitioner | Cloud & Automation Enthusiast</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
@@ -7,14 +7,14 @@
 
 ## 👩‍💻 About Me
 
-- 🚀 Passionate about **DevOps, Cloud Computing, Infrastructure Automation, and CI/CD**
-- 🔭 Currently working on **AWS, Kubernetes, Terraform, GitHub Actions, Jenkins, Docker, and DevSecOps Projects**
-- 🌱 Continuously learning **Advanced Kubernetes, AWS Services, Helm, and Infrastructure as Code**
-- 💻 Hands-on experience with **production-grade AWS architectures, containerized deployments, and automated CI/CD pipelines**
-- ☁️ AWS Certified Cloud Practitioner (CLF-C02)
-- 👨‍💻 Explore my projects: **https://github.com/nehasrivalli**
-- 📫 Reach me: **nehasrivalli@gmail.com**
-- ⚡ Fun fact: **I enjoy automating everything and solving infrastructure challenges.**
+- 💻 Full Stack Developer with experience in building scalable web applications using **React.js, Next.js, Node.js, Express.js, MongoDB, and SQL**
+- ☁️ DevOps Engineer passionate about **AWS, Docker, Kubernetes, Terraform, GitHub Actions, Jenkins, and CI/CD Automation**
+- 🔭 Currently building **Cloud-native applications, Infrastructure as Code (Terraform), and CI/CD pipelines on AWS**
+- 🌱 Continuously learning **DevSecOps, Kubernetes, Advanced AWS Services, and System Design**
+- 🏆 AWS Certified Cloud Practitioner (CLF-C02)
+- 👨‍💻 Check out my projects: **https://github.com/nehasrivalli**
+- 📫 Reach me at: **nehasrivalli@gmail.com**
+- ⚡ Fun fact: **I enjoy building applications from scratch and automating their deployment to the cloud.**
 
 ---
 
@@ -36,54 +36,53 @@
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### ☁️ Cloud
-<p>
-<img src="https://skillicons.dev/icons?i=aws" />
-</p>
-
-### 🚀 DevOps
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,githubactions,ansible" />
-</p>
-
-### 💻 Programming
+### 💻 Languages
 <p>
 <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c" />
 </p>
 
-### 🌐 Development
+### 🌐 Full Stack Development
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,django,git" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,django,html,css,git" />
 </p>
 
-### 🖥️ Operating Systems & Tools
+### ☁️ Cloud & DevOps
 <p>
-<img src="https://skillicons.dev/icons?i=linux,bash,vscode,github" />
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,ansible,linux,bash" />
 </p>
+
+### 📊 Tools & Concepts
+- REST APIs • OOP • DBMS • Operating Systems • CI/CD • Infrastructure as Code • DevSecOps • Monitoring • Agile
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-- 🔹 **CI/CD Pipeline using GitHub Actions + AWS ECS + ECR**
-- 🔹 **Production-Grade 3-Tier Architecture on AWS**
-- 🔹 **Terraform Infrastructure Automation**
-- 🔹 **Kubernetes Application Deployment with Helm**
-- 🔹 **DevSecOps Pipeline with SonarQube, Nexus & Jenkins**
-- 🔹 **Customer Churn Prediction using Machine Learning**
+### ☁️ DevOps & Cloud
+- 🚀 End-to-End CI/CD Pipeline using GitHub Actions, Docker, AWS ECR & ECS
+- ☁️ Production-Grade 3-Tier AWS Architecture with Terraform
+- ⚙️ Kubernetes Deployment using Helm
+- 🔒 DevSecOps Pipeline with SonarQube, Nexus & Jenkins
+
+### 💻 Full Stack & AI
+- 🌐 MERN Stack Social Media Application
+- 🏫 School Management Website using Next.js
+- 🤖 Customer Churn Prediction using Machine Learning
+- 📊 Data Analytics & Visualization using Python, Power BI & Tableau
 
 ---
 
-## 📜 Certifications
+# 📜 Certifications
 
 - 🏅 AWS Certified Cloud Practitioner (CLF-C02)
-- 🏅 AWS DevSecOps Training – VCube Software Solutions
+- 🏅 AWS DevSecOps Training
+- 🏅 Java Full Stack
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=nehasrivalli&show_icons=true&theme=tokyonight"/>
@@ -96,14 +95,14 @@
 
 ---
 
-## 🏆 Profile Views
+## 🏆 Achievements
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=nehasrivalli&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
+- ☁️ AWS Certified Cloud Practitioner
+- 🚀 Built production-ready CI/CD pipelines on AWS
+- 💻 Developed multiple Full Stack applications using MERN & Next.js
+- 🐳 Containerized and deployed applications using Docker & Kubernetes
+- 📈 Passionate about solving real-world problems through software and automation
 
 ---
 
-### 💡 Quote
-
-> *"Automate everything. Build once. Deploy anywhere."*
+> **"Code it. Containerize it. Automate it. Deploy it."** 🚀
