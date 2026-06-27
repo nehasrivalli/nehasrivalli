@@ -1,62 +1,109 @@
 <h1 align="center">Hi 👋, I'm Neha Srivalli</h1>
-<h3 align="center">Computer Science Student | Aspiring Software Developer | Passionate about Web Development & Cloud Technologies</h3>
+<h3 align="center">DevOps Engineer | AWS Certified Cloud Practitioner | Cloud & Automation Enthusiast</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 ---
 
-### 👩‍💻 About Me
-- 🔭 Currently working on: [Radiant Website](https://github.com/TEAM-DIPNER/Radiant_website) (Web Development Project)  
-- 🌱 Learning: **AWS | React.js | Cloud Technologies**  
-- 👨‍💻 Explore all my projects here: [GitHub Portfolio](https://github.com/nehasrivalli)  
-- 📫 Reach me at: **nehasrivalli@gmail.com**  
-- ⚡ Fun fact: *I love solving problems and building impactful applications*  
+## 👩‍💻 About Me
+
+- 🚀 Passionate about **DevOps, Cloud Computing, Infrastructure Automation, and CI/CD**
+- 🔭 Currently working on **AWS, Kubernetes, Terraform, GitHub Actions, Jenkins, Docker, and DevSecOps Projects**
+- 🌱 Continuously learning **Advanced Kubernetes, AWS Services, Helm, and Infrastructure as Code**
+- 💻 Hands-on experience with **production-grade AWS architectures, containerized deployments, and automated CI/CD pipelines**
+- ☁️ AWS Certified Cloud Practitioner (CLF-C02)
+- 👨‍💻 Explore my projects: **https://github.com/nehasrivalli**
+- 📫 Reach me: **nehasrivalli@gmail.com**
+- ⚡ Fun fact: **I enjoy automating everything and solving infrastructure challenges.**
 
 ---
 
-### 🤝 Connect with Me
+## 🤝 Connect with Me
+
 <p align="left">
-<a href="https://linkedin.com/in/nehasrivallipagidisetty" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+<a href="https://linkedin.com/in/nehasrivalli-p" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
 </a>
-<a href="https://instagram.com/user.name.0204?igshid=mznlngnkzwq4mg==" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
-</a>
+
 <a href="https://www.leetcode.com/neha_0204" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/>
+</a>
+
+<a href="https://instagram.com/user.name.0204" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
 </a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
-<p align="left">
-<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-<a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a>
-<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-<a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-<a href="https://www.mathworks.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a>
+## 🛠️ Tech Stack
+
+### ☁️ Cloud
+<p>
+<img src="https://skillicons.dev/icons?i=aws" />
+</p>
+
+### 🚀 DevOps
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,jenkins,githubactions,ansible" />
+</p>
+
+### 💻 Programming
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,c" />
+</p>
+
+### 🌐 Development
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,django,git" />
+</p>
+
+### 🖥️ Operating Systems & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=linux,bash,vscode,github" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nehasrivalli&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
+## 🚀 Featured Projects
+
+- 🔹 **CI/CD Pipeline using GitHub Actions + AWS ECS + ECR**
+- 🔹 **Production-Grade 3-Tier Architecture on AWS**
+- 🔹 **Terraform Infrastructure Automation**
+- 🔹 **Kubernetes Application Deployment with Helm**
+- 🔹 **DevSecOps Pipeline with SonarQube, Nexus & Jenkins**
+- 🔹 **Customer Churn Prediction using Machine Learning**
+
+---
+
+## 📜 Certifications
+
+- 🏅 AWS Certified Cloud Practitioner (CLF-C02)
+- 🏅 AWS DevSecOps Training – VCube Software Solutions
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nehasrivalli&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehasrivalli&layout=compact&theme=tokyonight"/>
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nehasrivalli&show_icons=true&locale=en" alt="GitHub Stats"/>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nehasrivalli&theme=tokyonight"/>
 </p>
 
+---
+
+## 🏆 Profile Views
+
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nehasrivalli&" alt="GitHub Streak"/>
+<img src="https://komarev.com/ghpvc/?username=nehasrivalli&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
+---
+
+### 💡 Quote
+
+> *"Automate everything. Build once. Deploy anywhere."*
